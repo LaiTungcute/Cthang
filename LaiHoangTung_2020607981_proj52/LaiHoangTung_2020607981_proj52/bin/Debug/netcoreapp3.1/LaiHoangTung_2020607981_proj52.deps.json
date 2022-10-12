@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LaiHoangTung_2020607981_proj52/1.0.0": {
+        "runtime": {
+          "LaiHoangTung_2020607981_proj52.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaiHoangTung_2020607981_proj52/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
